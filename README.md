@@ -17,4 +17,4 @@ It also asks you before actually shutting down to prevent accidents.
 # Comment
 
 If you think that the Shutdown.exe might contain virus, you can just read
-Shutdown.c and compile it yourself to be sure. *I will not take any responsibility for any damage that is done to your computer because of this program.* (Although I doubt it will. As windows will stop you from shutting down if you have unsaved work, for example.)
+Shutdown.c and compile it yourself to be sure. **I will not take any responsibility for any damage that is done to your computer because of this program.** (Although I doubt it will. As windows will stop you from shutting down if you have unsaved work, for example.)
